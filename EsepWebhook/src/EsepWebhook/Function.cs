@@ -1,5 +1,3 @@
-ines (28 sloc)  1.21 KB
-
 using System.Text;
 using Amazon.Lambda.Core;
 using Newtonsoft.Json;
